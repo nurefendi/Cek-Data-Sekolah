@@ -1,4 +1,6 @@
-# Cek-Data-Sekolah
-sek data sekolah PHP
+# Cek Data Sekolah
+## Synopsis
+Merupakan sistem Retrive data dengan CURL PHP
 
-Cek Data sekolah Menggunakan PHP CURL
+## API Reference
+PHP CURL
